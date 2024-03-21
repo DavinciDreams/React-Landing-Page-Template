@@ -20,7 +20,7 @@
   },
   "Gallery": [
     {
-      "title": "Three Little Pigs",
+      "title": "Fantasy",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
@@ -30,27 +30,27 @@
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Science Fiction",
+      "title": "Three Little Pigs",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Fantasy",
+      "title": "Adventure",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Adventure",
+      "title": "Science Fiction",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Comic Book",
+      "title": "Fairy Tale",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Horror",
+      "title": "Comic Book",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
