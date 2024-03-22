@@ -126,24 +126,29 @@ export const Contact = (props) => {
           </div>
           <div className="col-md-12">
             <div className="row">
-              <div className="social">
-                <ul>
-                  <li>
-                    <a href={props.data ? props.data.facebook : "/"}>
-                      <i className="fa fa-facebook"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href={props.data ? props.data.twitter : "/"}>
-                      <i className="fa fa-twitter"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href={props.data ? props.data.youtube : "/"}>
-                      <i className="fa fa-youtube"></i>
-                    </a>
-                  </li>
-                </ul>
+              <div className="social"><ul>
+  <li>
+    <a href={props.data ? props.data.facebook : "/"}>
+      <i className="fa fa-facebook"></i>
+    </a>
+  </li>
+  <li>
+    <a href={props.data ? props.data.twitter : "/"}>
+      <i className="fa fa-twitter"></i>
+    </a>
+  </li>
+  <li>
+    <a href={props.data ? props.data.youtube : "/"}>
+      <i className="fa fa-youtube"></i>
+    </a>
+  </li>
+  <li>
+    <a href={props.data ? props.data.discord : "/"}>
+      <i className="fa fa-discord"></i>
+    </a>
+  </li>
+</ul>
+
               </div>
             </div>
           </div>
