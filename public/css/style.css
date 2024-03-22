@@ -14,7 +14,7 @@ h4 {
   font-family: "Trykker", sans-serif;
 }
 h2 {
-  text-transform: uppercase;
+  text-transform: capitalize;
   margin: 0 0 20px;
   font-weight: 800;
   font-size: 36px;
@@ -31,7 +31,7 @@ h4 {
   font-weight: 600;
 }
 h5 {
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-weight: 700;
   line-height: 20px;
 }
@@ -84,12 +84,12 @@ hr {
   font-family: "Trykker", sans-serif;
   font-size: 24px;
   font-weight: 700;
-  color: #333;
-  text-transform: uppercase;
+  color: #6372ff;
+  text-transform: capitalize;
 }
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Lato", sans-serif;
-  text-transform: uppercase;
+  text-transform: capitalize;
   color: #555;
   font-size: 15px;
   font-weight: 400;
@@ -164,7 +164,7 @@ hr {
 }
 .btn-custom {
   font-family: "Trykker", sans-serif;
-  text-transform: uppercase;
+  text-transform: capitalize;
   color: #fff;
   background-color: #5ca9fb;
   background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
@@ -223,7 +223,7 @@ a:focus,
   color: #fff;
   font-size: 82px;
   font-weight: 700;
-  text-transform: uppercase;
+  text-transform: capitalize;
   margin-top: 0;
   margin-bottom: 10px;
 }
@@ -388,7 +388,7 @@ header .intro-text {
   font-size: 18px;
   letter-spacing: 1px;
   font-weight: 500;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 .hover-bg:hover .hover-text > h4 {
   opacity: 1;
