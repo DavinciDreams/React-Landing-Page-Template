@@ -7,8 +7,7 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Our Services</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Discover a whole new world of storytelling with Fairytale.Chat. Our AI-powered platform brings your imagination to life, creating captivating and immersive stories like never before. Whether you're a writer, educator, or just love a good tale, Fairytale.Chat is your gateway to endless enchantment.
           </p>
         </div>
         <div className="row">
