@@ -68,21 +68,6 @@
       "icon": "fa fa-cloud-download",
       "name": "AI-Driven Content Generation",
       "text": "Generate dynamic content effortlessly with artificial intelligence algorithms."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "AI-Driven Content Generation",
-      "text": "Generate dynamic content effortlessly with artificial intelligence algorithms."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     }
   ],
   "Testimonials": [
@@ -120,29 +105,28 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Alexandros Titonis",
+      "job": "Engineer"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Lisa Watts",
+      "job": "Project Manager"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
+      "name": "Bruhvatar",
       "job": "Senior Designer"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "",
+      "job": "Marketing Manager"
     }
   ],
   "Contact": {
     "address": "Philadelphia, PA",
-    "phone": "+1 123 456 1234",
-    "email": "info@neverendingstories.xyz",
+    "email": "info@fairytale.chat",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
