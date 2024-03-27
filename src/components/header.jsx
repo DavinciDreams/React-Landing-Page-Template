@@ -19,6 +19,20 @@ export const Header = (props) => {
                 >
                   Learn More
                 </a>{" "}
+                <a
+                  href="https://form.jotform.com/240693155617056"
+                  target="_blank"
+                  className="btn btn-custom btn-lg page-scroll"
+                >
+                  Register
+                </a>{" "}
+                <a
+                  href="https://cartoon-app-frontend.vercel.app/"
+                  target="_blank"
+                  className="btn btn-custom btn-lg page-scroll"
+                >
+                  Try the app!
+                </a>{" "}
               </div>
             </div>
           </div>

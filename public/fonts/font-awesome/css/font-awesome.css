@@ -1184,6 +1184,9 @@
 .fa-youtube-square:before {
   content: "\f166";
 }
+.fa-discord:before {
+  content: "\f392";
+}
 .fa-youtube:before {
   content: "\f167";
 }
@@ -1759,6 +1762,16 @@
 .fa-mars-stroke-v:before {
   content: "\f22a";
 }
+.fa-pencil:before {
+  content: "\f040";
+}
+.fa-comments:before {
+  content: "\f075";
+}
+.fa-android:before {
+  content: "\f17b";
+}
+
 .fa-mars-stroke-h:before {
   content: "\f22b";
 }

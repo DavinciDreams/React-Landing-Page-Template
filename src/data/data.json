@@ -55,17 +55,17 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-pencil",
       "name": "Personalized Narratives",
       "text": "Craft custom stories tailored to your taste and interests."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-comments",
       "name": "Interactive Conversational Scripts",
       "text": "Engage audiences with immersive dialogues powered by AI technology."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-android",
       "name": "AI-Driven Content Generation",
       "text": "Generate dynamic content effortlessly with artificial intelligence algorithms."
     }
@@ -104,7 +104,7 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
+      "img": "img/team/alex.jpg",
       "name": "Alexandros Titonis",
       "job": "Engineer"
     },
@@ -114,9 +114,9 @@
       "job": "Project Manager"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Bruhvatar",
-      "job": "Senior Designer"
+      "img": "img/team/arpan.jpg",
+      "name": "Arpan Tripathi",
+      "job": "AI Engineer"
     },
     {
       "img": "img/team/04.jpg",
