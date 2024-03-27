@@ -27,7 +27,7 @@ export const Header = (props) => {
                   Register
                 </a>{" "}
                 <a
-                  href="https://cartoon-app-frontend.vercel.app/"
+                  href="https://fairytale-chat-app.vercel.app/"
                   target="_blank"
                   className="btn btn-custom btn-lg page-scroll"
                 >
