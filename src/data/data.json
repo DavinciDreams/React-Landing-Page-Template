@@ -65,7 +65,7 @@
       "text": "Engage audiences with immersive dialogues powered by AI technology."
     },
     {
-      "icon": "fa fa-android",
+      "icon": "fa fa-edit",
       "name": "AI-Driven Content Generation",
       "text": "Generate dynamic content effortlessly with artificial intelligence algorithms."
     }
@@ -73,33 +73,33 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "I've always loved storytelling, but FairyTale.chat has taken my passion to new heights. The community here is incredibly supportive, and the integration of blockchain ensures that my stories are protected and valued. It's not just a platform; it's a home for storytellers.",
+      "name": "Lucas M."
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "FairyTale.chat is a breath of fresh air in the world of storytelling. The interface is intuitive, the story generation is seamless, and the monetization opportunities are endless. Whether you're a seasoned writer or just starting out, this platform has something for everyone.",
+      "name": "David L."
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "I've been a part of many online communities, but none have been as welcoming and inspiring as FairyTale.chat. The collaborative projects have allowed me to connect with fellow storytellers in ways I never thought possible. It's truly a magical experience.",
+      "name": "Tom K."
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "FairyTale.chat has ignited my creativity like never before! As an aspiring writer, the dynamic story generation feature has been a game-changer. I can't believe how effortlessly I can bring my ideas to life and share them with the world. Thank you for this amazing platform!",
+      "name": "Sarah W."
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "FairyTale.chat has completely transformed the way I approach storytelling. The integration of image and voice generation adds a whole new dimension to the narratives I create. I've never felt more connected to my characters and their worlds. Thank you for this incredible platform!",
+      "name": "Josh H."
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "Being able to mint my stories as NFTs on FairyTale.chat has given me a sense of ownership and empowerment like never before. I finally feel like my creativity has tangible value, and I'm excited to see where this journey takes me. Thank you for this opportunity!",
+      "name": "Emily R."
     }
   ],
   "Team": [
@@ -128,8 +128,9 @@
     "address": "Philadelphia, PA",
     "email": "info@fairytale.chat",
     "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "twitter": "https://twitter.com/artificialleap",
+    "youtube": "youtube.com",
+    "discord": "https://discord.gg/nWTUTPq5xz"
   },
   "Features": [
     {
