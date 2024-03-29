@@ -65,7 +65,7 @@
       "text": "Engage audiences with immersive dialogues powered by AI technology."
     },
     {
-      "icon": "fa fa-android",
+      "icon": "fa fa-robot",
       "name": "AI-Driven Content Generation",
       "text": "Generate dynamic content effortlessly with artificial intelligence algorithms."
     }
@@ -109,9 +109,9 @@
       "job": "Engineer"
     },
     {
-      "img": "img/team/lisa.png",
+      "img": "img/team/lisa.jpg",
       "name": "Lisa Watts",
-      "job": "Project Manager"
+      "job": "Operations"
     },
     {
       "img": "img/team/arpan.jpg",
